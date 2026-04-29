@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhumi Rastogi</h1>
-<h3 align="center">Data Analyst | SQL • Python • Tableau | Turning Data into Decisions</h3>
+<h1 align="center">Bhumi Rastogi</h1>
+<h3 align="center">Data Analyst | SQL • Python • Tableau</h3>
+
+<p align="center">
+Turning data into business decisions
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Data+Analyst;AI+Undergraduate;SQL+%7C+Python+%7C+Tableau;Business+Intelligence+Builder;Always+Learning+Always+Building" />
@@ -7,28 +11,28 @@
 
 ---
 
-# 🚀 About Me
+## About Me
 
-I’m an AI undergraduate passionate about solving real-world business problems using data.
+I am an AI undergraduate passionate about solving real-world business problems using data.
 
 I work on:
-- 📊 Data Analysis
-- 📈 Dashboard Building
-- 🧠 Business Intelligence
-- 💡 Product & Sales Analytics
-- 🔍 Insight Generation for Better Decisions
+- Data Analysis
+- Dashboard Building
+- Business Intelligence
+- Product and Sales Analytics
+- Insight Generation for Better Decisions
 
 ### Quick Highlights
 
-- 🎓 B.Tech in Artificial Intelligence
-- 🐍 Strong in Python + SQL
-- 📊 Tableau + Excel Dashboard Builder
-- 💻 Solved 150+ DSA Problems
-- 🎯 Goal: Become a top-tier Data / Product Analyst
+- B.Tech in Artificial Intelligence
+- Strong in Python + SQL
+- Tableau + Excel Dashboard Builder
+- Solved 150+ DSA Problems
+- Goal: Become a top-tier Data / Product Analyst
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -44,16 +48,16 @@ I work on:
 
 ---
 
-# 🔥 Featured Project
+## Featured Projects
 
-## Blinkit Sales Analysis
+# Blinkit Sales Analysis
 
 Analyzed 5,000+ transactions to uncover delay patterns affecting revenue and customer satisfaction.
 
 ### Key Findings
 
 - 62% of delays happened during evening peak hours
-- Delays above 10 mins sharply reduced satisfaction
+- Delays above 10 minutes sharply reduced customer satisfaction
 - Identified high-risk delivery zones with repeat delay issues
 
 ### Solutions Proposed
@@ -62,12 +66,39 @@ Analyzed 5,000+ transactions to uncover delay patterns affecting revenue and cus
 - Delay compensation strategy
 - Customer retention campaigns
 
-🔗 GitHub Repo:  
-https://github.com/bhumi-rastogi/E_G-16_Blinkit-Sales-Analysis
+<p align="left">
+<a href="https://github.com/bhumi-rastogi/E_G-16_Blinkit-Sales-Analysis">
+  <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# Government Tender Procurement Analytics
+
+Built a procurement risk and spending efficiency dashboard using 10,000+ public contract records from the City of Chicago.
+
+### Key Findings
+
+- Top vendors controlled nearly 30% of total spending
+- Average approval delay was 1180 days
+- High blanket contract volatility across departments
+
+### Solutions Proposed
+
+- Faster approval workflows
+- Vendor diversification strategy
+- Better blanket contract governance
+
+<p align="left">
+<a href="https://github.com/bhumi-rastogi/E_ProcurementAnalysisChicago">
+  <img src="https://img.shields.io/badge/View%20Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
@@ -79,33 +110,20 @@ https://github.com/bhumi-rastogi/E_G-16_Blinkit-Sales-Analysis
 
 ---
 
-# 🐍 Contribution Snake
+## Connect With Me
 
-![Snake animation](https://github.com/bhumi-rastogi/bhumi-rastogi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
 
----
+<a href="https://linkedin.com/in/bhumi-rastogi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-# 🌐 Connect With Me
+<a href="https://github.com/bhumi-rastogi">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### LinkedIn  
-https://linkedin.com/in/bhumi-rastogi
+<a href="https://leetcode.com/u/bhumi-rastogi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-### GitHub  
-https://github.com/bhumi-rastogi
-
-### LeetCode  
-https://leetcode.com/u/bhumi-rastogi/
-
----
-
-# ⚡ Personal Brand
-
-### I don’t just analyze data — I find what businesses are doing wrong.
-
----
-
-# ✨ Motto
-
-Always learning.  
-Always building.  
-Always improving.
+</p>
