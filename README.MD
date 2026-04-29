@@ -22,16 +22,22 @@
 
 </p>
 
+
+
 ---
+
+
 
 ## About Me
 
 I am an AI undergraduate passionate about solving real-world business problems using data.  
 I work with SQL, Python, Tableau, and Excel to build dashboards, analyze trends, and generate insights that support better business decisions.
 
+
+
 ---
 
-## Projects
+## Featured Projects
 
 # Blinkit Sales Analysis
 
@@ -81,19 +87,24 @@ Built a procurement risk and spending efficiency dashboard using 10,000+ public 
 
 ---
 
+
 ## Technical Skills
 
-### Languages  
-Python, SQL
+<p align="center">
 
-### Data Analysis & Visualization  
-Pandas, NumPy, Matplotlib, Seaborn, Tableau, Excel
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-### Database  
-MySQL
+</p>
 
-### Tools & Technologies  
-Scikit-learn, LangChain, LangGraph
 
 ---
 
@@ -108,15 +119,3 @@ Scikit-learn, LangChain, LangGraph
 </p>
 
 ---
-
-## Personal Brand
-
-I do not just analyze data — I find what businesses are doing wrong.
-
----
-
-## Motto
-
-Always learning  
-Always building  
-Always improving
