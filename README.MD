@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI+Undergraduate;Business+Intelligence+Builder;Always+Learning+Always+Building" />
 </p>
 
----
 
-## Connect With Me
 
 <p align="center">
 
